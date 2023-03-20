@@ -24,4 +24,4 @@ Run the script: python main.py
 
 <h2 style="font-size: 24px;">Reference source</h2>
 The Deep SORT repository from the official repository: https://github.com/nwojke/deep_sort</br>
-The code I based it onhttps://github.com/computervisioneng/object-tracking-yolov8-deep-sort.git
+The code I based it on https://github.com/computervisioneng/object-tracking-yolov8-deep-sort.git
